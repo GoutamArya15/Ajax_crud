@@ -107,7 +107,7 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) applicati
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://example.com/homepage.png)
+![Home Page](public/images/gautam.png)
 
 ### Adding a Record
 ![Adding a Record](https://example.com/addrecord.png)
